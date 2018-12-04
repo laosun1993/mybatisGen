@@ -7,7 +7,7 @@
 	<groupId>com.maven</groupId>
 	<artifactId>generator</artifactId>
 	<version>1.0-SNAPSHOT</version>
-
+	<!-- 测试 -->
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.mybatis.generator/mybatis-generator-core -->
